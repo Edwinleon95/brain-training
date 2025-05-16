@@ -1,4 +1,4 @@
-# Exercise 001 – Reverse String
+# Training One
 
 **Source:** [AdventJS](https://adventjs.dev/challenges/2024/4)
 
